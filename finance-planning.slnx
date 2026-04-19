@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="src/FinancePlanning.Api/FinancePlanning.Api.csproj" />
+  <Project Path="src/FinancePlanning.Domain/FinancePlanning.Domain.csproj" />
+  <Project Path="src/FinancePlanning.Infrastructure/FinancePlanning.Infrastructure.csproj" />
 </Solution>
