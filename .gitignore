@@ -1,1 +1,10 @@
-/finance_planning/.idea/
+# IDE
+.idea/
+
+# Build output
+bin/
+obj/
+
+# OS
+.DS_Store
+Thumbs.db
