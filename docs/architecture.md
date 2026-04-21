@@ -1,3 +1,4 @@
+```mermaid
 erDiagram
 IncomeSource ||--o{ Income : contains
 Income ||--o{ Distribution : has
@@ -40,3 +41,4 @@ int incomeId FK
 string accountCode FK
 decimal amount
 }
+```
