@@ -1,5 +1,6 @@
 # IDE
 .idea/
+finance-planning.sln.DotSettings.user
 
 # Build output
 bin/
@@ -8,3 +9,6 @@ obj/
 # OS
 .DS_Store
 Thumbs.db
+
+# environment
+.env
